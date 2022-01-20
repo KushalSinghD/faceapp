@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faceapp/static/css/main.cad550c4.css",
+    "main.js": "/faceapp/static/js/main.08e51341.js",
+    "static/js/787.f3af9344.chunk.js": "/faceapp/static/js/787.f3af9344.chunk.js",
+    "index.html": "/faceapp/index.html",
+    "main.cad550c4.css.map": "/faceapp/static/css/main.cad550c4.css.map",
+    "main.08e51341.js.map": "/faceapp/static/js/main.08e51341.js.map",
+    "787.f3af9344.chunk.js.map": "/faceapp/static/js/787.f3af9344.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad550c4.css",
+    "static/js/main.08e51341.js"
+  ]
+}
