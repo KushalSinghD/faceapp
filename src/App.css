@@ -1,0 +1,19 @@
+
+.display-flex{
+  display: flex;
+}
+
+.justifiy-content-center{
+  justify-content: center;
+}
+
+.position-absolute{
+  position: absolute;
+}
+
+
+canvas{
+  position: absolute;
+  z-index: 999;
+  transform: translateX(-50%);
+}
